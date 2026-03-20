@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SPARK",
+  "base_artist": "Kaneee",
+  "createdAt": "2026-03-20T08:24:50.419340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Spark",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_The_Spark_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Spark",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/02_The_Spark_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_SPARK-AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SPARK - AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_SPARK_-_AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spark Bug",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/05_Spark_Bug_Sou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Spark of Life",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/06_The_Spark_of_Life_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Arthur Spark",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/07_Arthur_Spark_Yello.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Put a Spark in My Life",
+      "artist": "Shannon",
+      "has_synced": false,
+      "path": "select/08_You_Put_a_Spark_in_My_Life_Shannon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spark Plug",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/09_Spark_Plug_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spark",
+      "artist": "Cocoon",
+      "has_synced": false,
+      "path": "select/10_Spark_Cocoon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spark",
+      "artist": "PHASES",
+      "has_synced": true,
+      "path": "select/11_Spark_PHASES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spark",
+      "artist": "The Breeders",
+      "has_synced": true,
+      "path": "select/12_Spark_The_Breeders.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spark Another Owl",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/13_Spark_Another_Owl_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spark My Soul",
+      "artist": "Cunninlynguists feat. Inverse & Substantial",
+      "has_synced": true,
+      "path": "select/14_Spark_My_Soul_Cunninlynguists_feat._Inverse_&_Substantial.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spark My Soul (By Inverse) (Ft. Substantial)",
+      "artist": "CunninLynguists",
+      "has_synced": true,
+      "path": "select/15_Spark_My_Soul_(By_Inverse)_(Ft._Substantial)_CunninLynguists.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spark My Soul (Instrumental)",
+      "artist": "CunninLynguists",
+      "has_synced": false,
+      "path": "select/16_Spark_My_Soul_(Instrumental)_CunninLynguists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPARK",
+      "artist": "Kaneee",
+      "has_synced": false,
+      "path": "select/pl_01_SPARK_Kaneee.txt"
+    }
+  ]
+}
